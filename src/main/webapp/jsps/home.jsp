@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Babu Software Solutions.  </h1>
+<h1 align="center">Welcome to Nagaraj Software Solutions.  </h1>
 <h1 align="center"> Babu Software Solutions- Very Good Training center for DevOps with AWS </h1>
 <hr>
 <br>
