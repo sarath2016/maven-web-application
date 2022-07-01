@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>AshokTechnologies- Home Page</title>
+<title>Babu Technologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Ashok Software Solutions.  </h1>
-<h1 align="center"> Ashok Software Solutions- Very Good Training center for DevOps with AWS </h1>
+<h1 align="center">Welcome to Babu Software Solutions.  </h1>
+<h1 align="center"> Babu Software Solutions- Very Good Training center for DevOps with AWS </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
